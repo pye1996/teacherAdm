@@ -25,7 +25,7 @@ public class TestController {
             return "成功插入一条数据";
         }
         else{
-            return "失败";
+            return "失败了";
         }
     }
 
